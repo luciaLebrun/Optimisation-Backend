@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,fr/sdv/adventofcode2020/BenchmarkPlan.benchmark_with_input_in_brute_force
+inline,fr/sdv/adventofcode2020/BenchmarkPlan.benchmark_with_input_in_complementary
+inline,fr/sdv/adventofcode2020/BenchmarkPlan.benchmark_with_input_in_recursive
+inline,fr/sdv/adventofcode2020/BenchmarkPlan.benchmark_with_test_input_in_brute_force
+inline,fr/sdv/adventofcode2020/BenchmarkPlan.benchmark_with_test_input_in_complementary
+inline,fr/sdv/adventofcode2020/BenchmarkPlan.benchmark_with_test_input_in_recursive

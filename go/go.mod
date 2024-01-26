@@ -1,0 +1,3 @@
+module opti
+
+go 1.21.6
