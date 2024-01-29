@@ -27,7 +27,7 @@ func findTripletsWithSum(numbers map[int]struct{}, targetSum int) [][]int {
 }
 
 func main() {
-	file, err := os.Open("../inputs/input2.txt")
+	file, err := os.Open("../../inputs/input2.txt")
 	if err != nil {
 		fmt.Println("Error opening file:", err)
 		return
